@@ -1,2 +1,12 @@
-# laravel-guide
-Laravel Step By Step Gide For Creating Project 
+# Laravel Guide
+
+## Why Laravel
+
+- A progressive Framework
+- dependency injection
+- unit testing
+- Queues
+- Real Time Events
+- Scalable Framework
+
+
