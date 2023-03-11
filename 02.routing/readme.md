@@ -15,3 +15,9 @@ Route::get('/demo',function(){
   echo "hello";
 });
 `
+
+`
+Route::get('/demo',function(){
+  echo "hello";
+});
+`
